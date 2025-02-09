@@ -75,6 +75,10 @@ Thanks for playing!
 Press Enter to exit...
  ```
 
+## v0.1.0
+
+Download the Windows executable: **[`tic_tac_toe_v0.1.0.exe`](https://github.com/pranavdharkar/tic_tac_toe/releases/download/v0.1.0/tic_tac_toe_v0.1.0.exe)**
+
 ## How to Build and Run
 
 - ### Prerequisites
