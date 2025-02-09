@@ -11,7 +11,7 @@ Outlines the development process for a **Tic Tac Toe**.
 ## Features
 - Tic Tac Toe game.
 - Recodes the player names.
-- Player 1 chooes the symbol (X or O).
+- Player 1 chooses the symbol (X or O).
 - Win/draw detection.
 - Press Enter to exit...
 
@@ -30,16 +30,16 @@ Outlines the development process for a **Tic Tac Toe**.
     ```
 2. The player 1 will choose symbol **X** or **O**.
 3. Two players take turns to play:
-    * Player 1 will place his/her choosed symbol.
-    * Player 2 will place a symbol that hadn't choosen.
+    * Player 1 will place his/her choose symbol.
+    * Player 2 will place a symbol that hadn't chosen.
 4. On their turn, a player chooses a cell (numbered 1-9) to place their symbol (X or O).
-5. A move is valid only if the choosen cell is empty.
+5. A move is valid only if the chosen cell is empty.
 6. The goal is to form a line of three of your symbols (X or O) in:
     - Horizontal line
     - Vertical line
     - Diagonal line
 7. The game end when:
-    - A player wins by formimg a line of three symbols.
+    - A player wins by forming a line of three symbols.
     - The board is full, resulting in a tie if no player has won.
 8. If an invalid move is attempted (e.g., choosing a filled cell or an invalid number), the player is asked to retry.
 9. The game announces the winner or declares a tie when it ends.

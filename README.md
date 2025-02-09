@@ -81,7 +81,7 @@ Press Enter to exit...
   - C++ and Compiler
 
 - ### Steps
-  - Compile the `tic_tac_toe.cpp`.
+  - Compile the [`tic_tac_toe.cpp`](./tic_tac_toe.cpp).
   - Run the generated executable.
 
 ## Explore More

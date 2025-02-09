@@ -10,6 +10,6 @@ GitHub Branch : `main`
 ## Features
 - Tic Tac Toe game.
 - Recodes the player names.
-- Player 1 chooes the symbol (X or O).
+- Player 1 chooses the symbol (X or O).
 - Win/draw detection.
 - Press Enter to exit...
